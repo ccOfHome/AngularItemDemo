@@ -1,0 +1,8 @@
+li{
+    font-size: 20px;
+    background-color: #f45;
+    color: #fff;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
